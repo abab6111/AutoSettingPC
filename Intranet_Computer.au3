@@ -808,7 +808,7 @@ func nt64()
   ConsoleWrite( "Enter OK" & @CRLF )
   sleep(7000)
 
-  ;放棄 只能用偷吃步的方式
+  ;
 
   ;輸入金鑰  BV4E-XFD3-NXW6-CWBJ-8BS2
   ConsoleWrite( "--- 輸入金鑰 ---" & @CRLF )
